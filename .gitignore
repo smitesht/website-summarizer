@@ -1,0 +1,16 @@
+.venv/
+venv/
+
+.env
+.env.*
+
+__pycache__/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+.streamlit/
+.cache/
+.streamlit_cache/
